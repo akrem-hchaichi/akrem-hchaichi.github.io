@@ -1,5 +1,15 @@
 [
   {
+    "name": "Money App",
+    "desc": "This project is designed to help you manage your expenses efficiently using a modern MERN stack and GraphQL.",
+    "image": "money-app",
+    "category": "mern",
+    "links": {
+      "view": "https://money-map-brr9.onrender.com",
+      "code": "https://github.com/akrem-hchaichi/money-map.git"
+    }
+  },
+  {
     "name": "React Hook Form",
     "desc": "React Hook Form Controllers for MUI Components and Zod Schema",
     "image": "react-fook-form",
